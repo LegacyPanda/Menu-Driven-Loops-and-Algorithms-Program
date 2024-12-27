@@ -16,7 +16,7 @@ int main()
         cout << "Option A: Fibonacci Numbers" << endl
              << "Option B: Sum of Fibonacci" << endl
              << "Option C: Palindrome" << endl
-             << "Option X: Quit you bitch" << endl;
+             << "Option X: Quit" << endl;
         cin >> chOption;
 
         switch (chOption)
